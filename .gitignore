@@ -1,0 +1,7 @@
+/.lake
+/build
+*.olean
+*.olean.server
+*.olean.private
+*.ilean
+*.trace
